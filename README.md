@@ -1,2 +1,2 @@
 # jubilant-guide
-bachelors project, 
+bachelors project regarding gait analysis including data collection and machine learning
