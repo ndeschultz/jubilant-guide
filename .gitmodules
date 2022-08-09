@@ -1,0 +1,3 @@
+[submodule "jubilant-guide-data"]
+	path = jubilant-guide-data
+	url = https://github.com/ndeschultz/jubilant-guide-data
