@@ -1,3 +1,9 @@
 [submodule "jubilant-guide-data"]
 	path = jubilant-guide-data
 	url = https://github.com/ndeschultz/jubilant-guide-data
+[submodule "jubilant-guide-latex"]
+	path = jubilant-guide-latex
+	url = https://github.com/ndeschultz/jubilant-guide-latex
+[submodule "jubilant-guide-code"]
+	path = jubilant-guide-code
+	url = https://github.com/ndeschultz/jubilant-guide-code
